@@ -1,20 +1,5 @@
 {
   "items": [
-    {
-      "rawImageUrl": "https://raw.githubusercontent.com/adventrey/Dolls-Pixel-ART/master/01.csv",
-      "itemName": "server_1"
-    },
-    {
-      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/1a.csv",
-      "itemName": "server_2"
-    },
-    {
-      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/2.csv",
-      "itemName": "server_3"
-    },
-    {
-      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/7a.csv",
-      "itemName": "server_4"
-    }
+   
   ]
 }
